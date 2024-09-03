@@ -66,8 +66,8 @@
 <p align="center">
 <a href="https://github.com/B-Sami">
                             
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=B-Sami&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=B-Sami&layout=compact&langs_count=4&theme=vue-dark&hide=html,css"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=B-Sami&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Sami&layout=compact&langs_count=4&theme=vue-dark&hide=html,css"/>
 </a>
 </p>
 
